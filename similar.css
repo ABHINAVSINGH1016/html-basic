@@ -1,0 +1,174 @@
+h1{
+    color:  rgb(211,203,188);
+    font-weight: 1;
+    height: 5px;
+    font-style: normal;
+    font-size: xx-large;
+}
+
+h3{
+    font-size: 4px;
+    position: relative;
+    left: -117px;
+    top: -20px;
+}
+h1.h11{
+    position: relative;
+    top: 5px;
+    left: -100px;
+}
+
+h1.h12{
+    position: relative;
+    top: -55px;
+    left: 45px;
+}
+h1.h13{
+    position: relative;
+    top: -50px;
+    left: -40px;
+}
+
+h1.h15{
+    position: relative;
+    top: -100px;
+    left: -10px;
+    font-size: x-large;
+}
+
+h1.h16{
+    position: relative;
+    top: -105px;
+    left: -10px;
+    font-size: x-large;
+}
+
+p{
+
+}
+
+p.p1{
+    position: relative;
+    top: 20px;
+    left: -100px;
+    width: 25px;
+    font-size: 2.5px;
+    color: rgb(87, 79, 121);
+}
+
+p.p2{
+    position: relative;
+    top: -40px;
+    left: 45px;
+    width: 25px;
+    font-size: 2.5px;
+    color: rgb(87, 79, 121);
+}
+
+p.p3{
+    position: relative;
+    top: -35px;
+    left: -40px;
+    width: 40px;
+    font-size: 2.5px;
+    color: rgb(87, 79, 121);
+
+}
+
+p.p4{
+    position: relative;
+    text-align: left;
+    top: -20px;
+    left: -100px;
+    width: 55px;
+    font-size: 2.5px;
+    color: rgb(87, 79, 121);
+}
+
+p.p5{
+    position: relative;
+    text-align: left;
+    top: -17px;
+    left: -100px;
+    width: 55px;
+    font-size: 2.5px;
+    color: rgb(87, 79, 121);
+}
+
+p.p6{
+    position: relative;
+    text-align: left;
+    top: -13px;
+    left: -100px;
+    width: 55px;
+    font-size: 2.5px;
+    color: rgb(87, 79, 121);
+}
+
+p.p7{
+    position: relative;
+    top: -93px;
+
+    left: -10px;
+    font-size: 2.5px;
+    color: rgb(87, 79, 121);
+}
+
+p.p8{
+    position: relative;
+    text-align: left;
+    top: -97px;
+    width: 55px;
+    left: -10px;
+    font-size: 2.5px;
+    color: rgb(87, 79, 121);
+}
+hr{
+    position: relative;
+    top: -310px;
+    left: 110px;
+}
+div{
+    border-radius: 50%;
+    width: 2px;
+    height: 2px;
+    padding: 2px;
+
+    background: #fff;
+    border: 1px solid rgb(184, 158, 158);
+    text-align: center;
+
+    font: 3px Arial, sans-serif;
+
+    position: relative;
+    bottom: 365px;
+    left: 443px;
+}
+
+div.bold{
+    border: 1px solid rgb(17, 15, 15);
+}
+
+p1{
+    position: relative;
+    top: -429px;
+    left: 442px;
+    font-size: 2.5px;
+    color: rgb(87, 79, 121);
+}
+
+p2{
+    position: relative;
+    top: -426px;
+    left: 433px;
+    font-size: 2.5px;
+    color: rgb(87, 79, 121);
+}
+
+p3{
+    position: relative;
+    top: -423px;
+    left: 423px;
+    font-size: 2.5px;
+    color: rgb(87, 79, 121);
+}
